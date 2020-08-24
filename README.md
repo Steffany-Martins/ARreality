@@ -3,7 +3,7 @@
 <p>No projeto-summit.unity, com o script ARTapToPlane.cs tratou da parte interativa entre o objeto e o plano físico. <br/>
 Utilizando a plataforma UNITY, para a Realidade Aumentada com android/ios, temos detecção de plano com a opção de rotação/movimentação para a melhor análise do cliente.</p>
 
-<p>Utilizando o ARCORE, ARKIT e o package de Augmented Reality AR FOUNDATION do Asset Store. Outras alternativas seria o Vuforia, amplamente utilizado para realidade virtual no mundo AR.<br/>
+<p>Utilizando o ARCORE, ARKIT e o package de Augmented Reality AR FOUNDATION do Asset Store. Outras alternativas seria o Vuforia, amplamente utilizado para realidade aumentada ou virtual.<br/>
 No arquivo build.apk é possível rodar a visualização com o Google Play Services RA para rodar o aplicativo em sua câmera de celular. <br/>
 </p>
 
